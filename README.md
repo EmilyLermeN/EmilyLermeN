@@ -2,7 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-🌸 Olá! Eu sou Emily Lermen
+![Header](<img width="2125" height="575" alt="github-header-banner (4)" src="https://github.com/user-attachments/assets/b03c193b-cd0a-4545-b161-693ecb07a36e" />
+)
 
 - 💻 Estudante de Informática para Internet no IFC - Campus Concórdia
 - 🎓 3º ano do Ensino Médio
