@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d8ee7e1f-6cb9-400e-b43b-a33b42ed6f63" width="100%">
+<img src="https://github.com/user-attachments/assets/d8ee7e1f-6cb9-400e-b43b-a33b42ed6f63" width="50%">
 </div>
 
 - 💻 Estudante de Informática para Internet no IFC - Campus Concórdia  
