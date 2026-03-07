@@ -79,16 +79,9 @@
 </td>
 </tr>
 </table>
-
 <br/>
-
-
 </div>
-
 ---
-
-## 💻 Coding Time
-
 <div align="center">
 
 <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" width="450">
