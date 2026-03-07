@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="26%">
 
 ### Frontend
 
@@ -35,7 +35,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="26%">
 
 ### Backend
 
@@ -63,7 +63,7 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="26%">
 
 ### DevOps
 
@@ -77,7 +77,7 @@
 
 </td>
 
-<td width="20%" align="center">
+<td width="22%" align="center">
 
 <img width="2000" height="2000" alt="octocat-1772923570668" src="https://github.com/user-attachments/assets/3cdddf57-b40f-479e-a212-d52f6e9170c9" />
 
