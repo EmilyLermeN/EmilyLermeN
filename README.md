@@ -4,7 +4,6 @@
 🎓 Atualmente no 3º ano do Ensino Médio
 🎂 18 anos
 
-Ferramentas e Tecnologias
 
   
 
