@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d8ee7e1f-6cb9-400e-b43b-a33b42ed6f63" width="30%">
+<img src="https://github.com/user-attachments/assets/d8ee7e1f-6cb9-400e-b43b-a33b42ed6f63" width="100%">
 </div>
 
 - 💻 Estudante de Informática para Internet no IFC - Campus Concórdia  
@@ -11,7 +11,7 @@
 - 🎂 18 anos  
 <div align="right">
 
-<img src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif" width="450">
+<img src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif" width="30%">
 
 </div>
 <br/>
