@@ -82,7 +82,10 @@
 
 <br/>  
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/EmilyLermeN/EmilyLermeN/output/github-contribution-grid-snake.svg">
-</p>
+<div>
+<a href="https://github.com/EmilyLermeN">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyLermeN&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EmilyLermeN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 </div>
