@@ -9,7 +9,11 @@
 - 💻 Estudante de Informática para Internet no IFC - Campus Concórdia  
 - 🎓 3º ano do Ensino Médio  
 - 🎂 18 anos  
+<div align="right">
 
+<img src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif" width="450">
+
+</div>
 <br/>
 
 ## My Skill Set
