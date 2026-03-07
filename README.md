@@ -11,6 +11,8 @@
 <br clear="right">
 <br/>
 
+![Snake animation](https://github.com/seu-usuário-aqui/EmilyLermeN/blob/output/github-contribution-grid-snake.svg)
+
 ## My Skill Set
 
 <table>
