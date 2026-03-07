@@ -1,10 +1,5 @@
 <div align="center">
 <img width="2125" height="575" alt="github-header-banner (6)" src="https://github.com/user-attachments/assets/1e4d0750-863e-4f9f-a4e6-e030404976c3" />
-" align="center" style="width: 100%" />
-</div>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/d8ee7e1f-6cb9-400e-b43b-a33b42ed6f63" width="100%">
 </div>
 
 <img src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif" width="110" align="right">
