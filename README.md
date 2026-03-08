@@ -3,6 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=#7F00FF"/>
 </p>
 
+<div>
 <img src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif" width="110" align="right">
 
 - 💻 Estudante de Informática para Internet no IFC - Campus Concórdia  
@@ -10,10 +11,7 @@
 - 🎂 18 anos  
 
 <br clear="right">
-<br/>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EmilyLermeN.EmilyLermeN&left_color=hotpink&right_color=deeppink"  />
+<br/>>
 </div>
 
 <picture>
