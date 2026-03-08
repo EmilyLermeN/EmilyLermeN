@@ -12,6 +12,10 @@
 <br clear="right">
 <br/>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EmilyLermeN.EmilyLermeN&left_color=hotpink&right_color=deeppink"  />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmilyLermeN/EmilyLermeN/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmilyLermeN/EmilyLermeN/output/pacman-contribution-graph.svg">
