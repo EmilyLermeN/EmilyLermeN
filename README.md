@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#DBB2B9&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 <div align="center">
 <img width="2125" height="575" alt="github-header-banner (8)" src="https://github.com/user-attachments/assets/396599bf-204d-4d56-9dfc-2b2a4829b8b3" />
 </div>
