@@ -96,7 +96,7 @@
 </div>
 <div align="center">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/%D1%8D%D0%BC%D0%B8%D0%BB%D0%B8-lermen-6a880b3a7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
