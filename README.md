@@ -84,7 +84,7 @@
 
 </td>
 
-<td width="22%" align="right">
+<td width="22%" align="center">
 
 <img width="2000" height="2000" alt="octocat-1772923570668" src="https://github.com/user-attachments/assets/3cdddf57-b40f-479e-a212-d52f6e9170c9" />
 
@@ -94,7 +94,7 @@
 <br/>
 
 </div>
-<div align="center">
+<div align="right">
 
 <img src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif" width="450">
 
