@@ -1,9 +1,9 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#DBB2B9&fontAlign=100&fontAlignY=100&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
 <div align="center">
-<img width="2125" height="575" alt="github-header-banner (8)" src="https://github.com/user-attachments/assets/396599bf-204d-4d56-9dfc-2b2a4829b8b3" />
+
+<img width="100%" src="https://github.com/user-attachments/assets/396599bf-204d-4d56-9dfc-2b2a4829b8b3">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt">
+
 </div>
 
 <img src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif" width="110" align="right">
