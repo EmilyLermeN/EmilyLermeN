@@ -4,7 +4,7 @@
 </p>
 
 <div>
-<img src="https://i.gifer.com/8K8b.gif" width="110" align="right">
+<img src="https://i.gifer.com/8K8b.gif" width="500" align="right">
 
 - 💻 Estudante de Informática para Internet no IFC - Campus Concórdia  
 - 🎓 3º ano do Ensino Médio  
